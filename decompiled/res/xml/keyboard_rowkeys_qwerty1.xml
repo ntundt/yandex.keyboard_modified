@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:latin="http://schemas.android.com/apk/res-auto">
+    <Key latin:additionalMoreKeys="1" latin:keyHintLabel="1" latin:keyLabelFlags="drawHint" latin:keySpec="q" latin:moreKeys="ℚ" />
+    <Key latin:additionalMoreKeys="2" latin:keyHintLabel="2" latin:keyLabelFlags="drawHint" latin:keySpec="w" latin:moreKeys="ŵ" />
+    <Key latin:additionalMoreKeys="3" latin:keyHintLabel="3" latin:keyLabelFlags="drawHint" latin:keySpec="e" latin:moreKeys="è,é,ê,ë,ě,ę,ĕ,ē,ė,∃,∈,∉" />
+    <Key latin:additionalMoreKeys="4" latin:keyHintLabel="4" latin:keyLabelFlags="drawHint" latin:keySpec="r" latin:moreKeys="ŗ,ŕ,ř,ℝ" />
+    <Key latin:additionalMoreKeys="5" latin:keyHintLabel="5" latin:keyLabelFlags="drawHint" latin:keySpec="t" latin:moreKeys="ŧ,ţ,þ,ť" />
+    <Key latin:additionalMoreKeys="6" latin:keyHintLabel="6" latin:keyLabelFlags="drawHint" latin:keySpec="y" latin:moreKeys="ĳ,ŷ,ý,ÿ" />
+    <Key latin:additionalMoreKeys="7" latin:keyHintLabel="7" latin:keyLabelFlags="drawHint" latin:keySpec="u" latin:moreKeys="ù,ú,ų,ů,ű,ū,ü,ũ,ŭ,û,∪" />
+    <Key latin:additionalMoreKeys="8" latin:keyHintLabel="8" latin:keyLabelFlags="drawHint" latin:keySpec="i" latin:moreKeys="ì,í,ĳ,į,ı,ĭ,ī,ï,ĩ,î" />
+    <Key latin:additionalMoreKeys="9" latin:keyHintLabel="9" latin:keyLabelFlags="drawHint" latin:keySpec="o" latin:moreKeys="ò,º,œ,ő,ŏ,ō,ø,ö,õ,ô,ó" />
+    <Key latin:additionalMoreKeys="0" latin:keyHintLabel="0" latin:keyLabelFlags="drawHint" latin:keySpec="p" />
+</merge>

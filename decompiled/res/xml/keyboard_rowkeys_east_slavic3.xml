@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:latin="http://schemas.android.com/apk/res-auto">
+    <Key latin:keySpec="я" latin:moreKeys="я́" />
+    <Key latin:keySpec="ч" />
+    <Key latin:keySpec="с" />
+    <Key latin:keySpec="м" />
+    <switch>
+        <case latin:languageCode="be">
+            <Key latin:keySpec="і" latin:moreKeys="и,ї" />
+        </case>
+        <default>
+            <Key latin:keySpec="и" latin:moreKeys="і,ї,и́" />
+        </default>
+    </switch>
+    <Key latin:keySpec="т" />
+    <switch>
+        <case latin:languageCode="ru">
+            <switch>
+                <case latin:showAdditionalCyrillicSymbols="true">
+                    <Key latin:keySpec="ь" />
+                </case>
+                <default>
+                    <Key latin:additionalMoreKeys="ъ" latin:keyHintLabel="ъ" latin:keySpec="ь" />
+                </default>
+            </switch>
+        </case>
+        <default>
+            <Key latin:keySpec="ь" />
+        </default>
+    </switch>
+    <switch>
+        <case latin:languageCode="ru" latin:showAdditionalCyrillicSymbols="true">
+            <Key latin:keySpec="б" />
+        </case>
+        <default>
+            <Key latin:keySpec="б" />
+        </default>
+    </switch>
+    <Key latin:keySpec="ю" latin:moreKeys="ю́" />
+</merge>
